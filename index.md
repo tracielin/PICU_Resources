@@ -1,4 +1,5 @@
 ## Articles/Resources Relevant to the Practice of Pediatric Critical Care Medicine
+Topic headers are to the left. Some articles may appear in more than one category.
 
 You can use the [editor on GitHub](https://github.com/tracielin/PICUResources/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
