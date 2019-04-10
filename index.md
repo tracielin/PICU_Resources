@@ -1,19 +1,14 @@
 # Welcome!
 To jump ahead to your topic of interest, use the menu to the left. 
-Note: Some articles may appear in more than one category.
+<p>Note: Some articles may appear in more than one category.
 
 -----------
-### Recent Article Highlights:
--
--
--
+### Recent Article Highlights
+
 
 -----------
 
 ### Neurology
--
--
--
 - Pediatric TBI Guidelines Supplement Pediatric Critical Care Medicine January 2012 Vol 13 (Supplement 1).
 - Alali AS, et al. J Neurosurg Pediatr. 2015.Intracranial pressure monitoring among children with severe traumatic brain injury.
 - Alkhoury F, et al. JAMA Surg. 2014. Intracranial Pressure Monitoring in Children With Severe Traumatic Brain Injury: National Trauma Data Bank-Based Review of Outcomes.
@@ -22,12 +17,12 @@ Note: Some articles may appear in more than one category.
 - RESCUE ICP 2016
 
 
-## AIRWAY
+### Airway
 Practice Guidelines for Management of the Difficult Airway. Anesthesiology February 2013: 1-20.
 Anene 1996, Dexamethasone for the prevention of postextubation airway obstruction: a prospective, randomized, double-blind, placebo-controlled trial. -- Sid presented at Sentinel Article Review 1/2018
 Khemani RG, et al. Cochrane Database Syst Rev. 2009. Corticosteroids for the prevention and treatment of post-extubation stridor in neonates, children and adults.
 
-### RESPIRATORY
+### Respiratory
 Pediatric Acute Respiratory Distress Syndrome: Consensus Recommendations From the Pediatric Acute Lung Injury Consensus Conference (http://pedsccm.vpicu.net/file_uploads/PALICC_pediatric_ARDS.pdf) PCCM 2015.
 PARDS Supplement Pediatric Critical Care Medicine June 2015 Vol 18 (Supplement 1).
 Yanez LJ, Yunge M, Emilfork M, Lapadula M, Alcántara A, et al. (2008) A prospective, randomized, controlled trial of non-invasive ventilation in pediatric acute respiratory failure. PediatrCrit Care Med9: 484-489.
@@ -41,7 +36,7 @@ Topjian 2017. Association of early postresuscitation hypotension with survival t
 Association Between Diastolic Blood Pressure During Pediatric In-Hospital Cardiopulmonary Resuscitation and Survival. Berg et al.; Diastolic BP during Pediatric In-hospital CPR. Circulation. published online December 26, 2017.
 
 
-# CARDIAC
+### Cardiac
 PCCM: Useful References in Pediatric Cardiac Intensive Care: The 2017 Update. https://www.ncbi.nlm.nih.gov/pubmed/29533351
 Pediatric Cardiac Intensive Care: State of the Art. Pediatric Critical Care Medicine August 2016 Vol 17 (Supplement 1).
 Cholette 2011. Children with single-ventricle physiology do not benefit from higher hemoglobin levels post cavopulmonary connection: results of a prospective, randomized, controlled trial of a restrictive versus liberal red-cell transfusion strategy. PCCM. 12(1):39-45, JAN 2011
