@@ -3,14 +3,14 @@ To jump ahead to your topic of interest, use the menu to the left.
 Note: Some articles may appear in more than one category.
 
 -----------
-Recent Article Highlights:
+### Recent Article Highlights:
 -
 -
 -
 
 -----------
 
-Neurology
+### Neurology
 -
 -
 -
