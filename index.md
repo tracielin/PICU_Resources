@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Articles/Resources Relevant to the Practice of Pediatric Critical Care Medicine
 
 You can use the [editor on GitHub](https://github.com/tracielin/PICUResources/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
