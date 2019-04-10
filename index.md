@@ -1,6 +1,6 @@
 # Welcome!
 To jump ahead to your topic of interest, use the menu to the left. 
-<br>Note: Some articles may appear in more than one category.</br>
+<br>Note: Some articles may appear in more than one category.
 
 -----------
 ### Recent Article Highlights
@@ -16,7 +16,7 @@ To jump ahead to your topic of interest, use the menu to the left.
 - DECRA 2011
 - RESCUE ICP 2016
 
-### Anesthesiology/Analgesia/Sedation/Neuromuscular Blockade
+### Anesthesiology / Analgesia / Sedation / Neuromuscular Blockade
 https://www.openanesthesia.org/local_anesthetics_systemic_toxicity/
 https://www.nysora.com/toxicity-of-local-anesthetics
 
@@ -197,58 +197,60 @@ Hendrickson. TRANSFUSION 2012;52:1228-1236. Implementation of a pediatric trauma
 
 
 
-TOXICOLOGY
+### TOXICOLOGY
 
 
 
-GENETICS, SYNDROMES, AND METABOLIC DISEASE
+### GENETICS, SYNDROMES, AND METABOLIC DISEASE
 Neonatology: Clinical Practice and Procedures: Chapter 60: Metabolic Acidosis in the Newborn
 
-TRANSPORT MEDICINE / EMS
+### TRANSPORT MEDICINE / EMS
 
 
 
-REHABILITATION / OUTCOMES
+### REHABILITATION / OUTCOMES
 
 
 
-BASIC SCIENCE METHODS
+### BASIC SCIENCE METHODS
 
 
 
-STATISTICS / STUDY DESIGN
+### STATISTICS / STUDY DESIGN
 Transparent reporting of a multivariable prediction model for individual prognosis or diagnosis (TRIPOD): Explanation and elaboration. Annals of Internal Medicine 2015. 
 
-EPIDEMIOLOGY
+### EPIDEMIOLOGY
 Fowler et al. Childhood firearm injuries in the United States. Pediatrics, 2017 140(1), e20163486.
 
 
-ICU RESOURCE MANAGEMENT / QUALITY IMPROVEMENT / CLINICAL EFFECTIVENESS / EARLY WARNING AND BIG DATA
+### ICU RESOURCE MANAGEMENT / QUALITY IMPROVEMENT / CLINICAL EFFECTIVENESS / EARLY WARNING AND BIG DATA
 
 
 
 
-SIMULATION
+### SIMULATION
 
 
 
 
-EDUCATION
+### EDUCATION
 
 
 
 
-GLOBAL HEALTH / AUSTERE ENVIRONMENTS
+### GLOBAL HEALTH / AUSTERE ENVIRONMENTS
 
 
 
 
-OTHER
+### OTHER
 
 
+---------------
+Interested in perusing some of Tracie's other collections?
+<br>Suggestions? Email tlin42@jhmi.edu.
 
-
------------
+---------------
 You can use the [editor on GitHub](https://github.com/tracielin/PICUResources/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
