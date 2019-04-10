@@ -10,7 +10,7 @@ Recent Article Highlights:
 
 -----------
 
-Neurology:
+Neurology
 -
 -
 -
@@ -22,12 +22,12 @@ Neurology:
 - RESCUE ICP 2016
 
 
-AIRWAY
+## AIRWAY
 Practice Guidelines for Management of the Difficult Airway. Anesthesiology February 2013: 1-20.
 Anene 1996, Dexamethasone for the prevention of postextubation airway obstruction: a prospective, randomized, double-blind, placebo-controlled trial. -- Sid presented at Sentinel Article Review 1/2018
 Khemani RG, et al. Cochrane Database Syst Rev. 2009. Corticosteroids for the prevention and treatment of post-extubation stridor in neonates, children and adults.
 
-RESPIRATORY
+### RESPIRATORY
 Pediatric Acute Respiratory Distress Syndrome: Consensus Recommendations From the Pediatric Acute Lung Injury Consensus Conference (http://pedsccm.vpicu.net/file_uploads/PALICC_pediatric_ARDS.pdf) PCCM 2015.
 PARDS Supplement Pediatric Critical Care Medicine June 2015 Vol 18 (Supplement 1).
 Yanez LJ, Yunge M, Emilfork M, Lapadula M, Alcántara A, et al. (2008) A prospective, randomized, controlled trial of non-invasive ventilation in pediatric acute respiratory failure. PediatrCrit Care Med9: 484-489.
