@@ -1,6 +1,6 @@
 # Welcome!
 To jump ahead to your topic of interest, use the menu to the left. 
-<p>Note: Some articles may appear in more than one category.
+<br>Note: Some articles may appear in more than one category.</br>
 
 -----------
 ### Recent Article Highlights
@@ -15,6 +15,11 @@ To jump ahead to your topic of interest, use the menu to the left.
 - Bennett TD, et al. Arch Pediatr Adolesc Med. 2012.Variation in intracranial pressure monitoring and outcomes in pediatric traumatic brain injury.
 - DECRA 2011
 - RESCUE ICP 2016
+
+### Anesthesiology/Analgesia/Sedation/Neuromuscular Blockade
+https://www.openanesthesia.org/local_anesthetics_systemic_toxicity/
+https://www.nysora.com/toxicity-of-local-anesthetics
+
 
 
 ### Airway
@@ -144,59 +149,51 @@ Ebstein anomaly. J Thorac Cardiovasc Surg 2008; 135:1120–1136,
 99. Wessel DL, Adatia I, Giglia TM, et al: Use of inhaled nitric oxide and acetylcholine in the evaluation of pulmonary hypertension and endothelial function after cardiopulmonary bypass. Circulation 1993; 88(5 Pt 1):2128–2138
 100. Zahn EM, Dobrolet NC, Nykanen DG, et al: Interventional catheterization performed in the early postoperative period after congenital heart surgery in children. J Am Coll Cardiol 2004; 43:1264–1269
 
-ECMO / VAD / MECHANICAL CARDIOPULMONARY SUPPORT
+### ECMO / VAD / Mechanical Cardiopulmonary Support
+-Almond, ECMO as a bridge to transplant -- Liz Herrup presented at Sentinel Article Review 11/2017
+-EOLIA Trial. NEJM 2018.
 
-Almond, ECMO as a bridge to transplant -- Liz Herrup presented at Sentinel Article Review 11/2017
-EOLIA Trial. NEJM 2018.
-
-HEMATOLOGY
-PINT - The Premature Infants in Need of Transfusion (PINT) study: a randomized, controlled trial of a restrictive (low) versus liberal (high) transfusion threshold for extremely low birth weight infants. J Pediatr. 2006 Sep;149(3):301-307.
-PE and RA thrombi -- Katherine Hoops presented at Sentinel Article Review 11/2017
-
+### Hematology
+-PINT - The Premature Infants in Need of Transfusion (PINT) study: a randomized, controlled trial of a restrictive (low) versus liberal (high) transfusion threshold for extremely low birth weight infants. J Pediatr. 2006 Sep;149(3):301-307.
+-PE and RA thrombi -- Katherine Hoops presented at Sentinel Article Review 11/2017
 
 
 
-RENAL / FLUID & ELECTROLYTES / DIALYSIS
+
+### Renal / Fluid & Electrolytes / Dialysis
 
 
-
-SEPSIS / INFECTIOUS DISEASE
+### Sepsis / Infectious Disease
 Davis et al. The American College of Critical Care Medicine Clinical Practice Parameters for Hemodynamic Support of Pediatric and Neonatal Septic Shock: Executive Summary. Pediatric Critical Care Medicine September 2017 Vol 18 (9): 884–890.
 Sprung et al. Hydrocortisone Therapy for Patients with Septic Shock. NEJM 2008 Vol 358:111-124.
 Annane et al. Effect of treatment with low doses of hydrocortisone and fludrocortisone on mortality in patients with septic shock.JAMA. 2002 Aug 21;288(7):862-71.
 
-ENDOCRINOLOGY
+### Endocrinology 
 Guidelines for the Diagnosis and Management of Critical Illness-Related Corticosteroid Insufficiency (CIRCI) in Critically Ill Patients (Part I): Society of Critical Care Medicine (SCCM) and European Society of Intensive Care Medicine (ESICM) 2017
 
-IMMUNOLOGY / RHEUMATOLOGY
+### Immunology / Rheumatology 
+
+
+### Gastroenterology / Nutrition
+-Fivez 2016, Early versus Late Parenteral Nutrition in Critically Ill Children. NEJM.http://www.nejm.org/doi/pdf/10.1056/NEJMoa1514762
+-Lu 2013. Evaluation of the Liver Injury Unit Scoring System to Predict Survival in a Multinational Study of Pediatric Acute Liver Failure. Journal of Pediatrics.
 
 
 
-GASTROENTEROLOGY/NUTRITION
-Fivez 2016, Early versus Late Parenteral Nutrition in Critically Ill Children. NEJM.http://www.nejm.org/doi/pdf/10.1056/NEJMoa1514762
-Lu 2013. Evaluation of the Liver Injury Unit Scoring System to Predict Survival in a Multinational Study of Pediatric Acute Liver Failure. Journal of Pediatrics.
+### Oncology 
 
 
 
-ONCOLOGY
-
-
-
-
-SURGERY / TRAUMA (NON-NEURO) / BURNS
+### SURGERY / TRAUMA (NON-NEURO) / BURNS
 CRASH-2
 Hendrickson. Journal of pediatrics 2012. Coagulopathy is prevalent and associated with adverse outcomes in transfusesd pediatric trauma patients.
 Hendrickson. TRANSFUSION 2012;52:1228-1236. Implementation of a pediatric trauma massive transfusion protocol: one institution’s experience.
 
 
 
-PROCEDURES
+### PROCEDURES
 
 
-
-ANESTHESIOLOGY/ANALGESIA/SEDATION
-https://www.openanesthesia.org/local_anesthetics_systemic_toxicity/
-https://www.nysora.com/toxicity-of-local-anesthetics
 
 
 
