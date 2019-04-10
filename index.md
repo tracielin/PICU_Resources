@@ -1,6 +1,6 @@
-## Articles Relevant to the Practice of Pediatric Critical Care Medicine
+# Welcome!
 To jump ahead to your topic of interest, use the menu to the left. 
-Some articles may appear in more than one category.
+Note: Some articles may appear in more than one category.
 
 -----------
 Recent Article Highlights:
@@ -41,7 +41,7 @@ Topjian 2017. Association of early postresuscitation hypotension with survival t
 Association Between Diastolic Blood Pressure During Pediatric In-Hospital Cardiopulmonary Resuscitation and Survival. Berg et al.; Diastolic BP during Pediatric In-hospital CPR. Circulation. published online December 26, 2017.
 
 
-CARDIAC
+# CARDIAC
 PCCM: Useful References in Pediatric Cardiac Intensive Care: The 2017 Update. https://www.ncbi.nlm.nih.gov/pubmed/29533351
 Pediatric Cardiac Intensive Care: State of the Art. Pediatric Critical Care Medicine August 2016 Vol 17 (Supplement 1).
 Cholette 2011. Children with single-ventricle physiology do not benefit from higher hemoglobin levels post cavopulmonary connection: results of a prospective, randomized, controlled trial of a restrictive versus liberal red-cell transfusion strategy. PCCM. 12(1):39-45, JAN 2011
