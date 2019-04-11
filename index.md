@@ -41,7 +41,7 @@ Topjian 2017. Association of early postresuscitation hypotension with survival t
 Association Between Diastolic Blood Pressure During Pediatric In-Hospital Cardiopulmonary Resuscitation and Survival. Berg et al.; Diastolic BP during Pediatric In-hospital CPR. Circulation. published online December 26, 2017.
 
 
-<a style="font-weight:bold" style="font-size: 100px href = " https://tracielin.github.io/PICU_Resources/cardio">Cardiology</a>
+<a href = " https://tracielin.github.io/PICU_Resources/cardio" style="font-weight:bold" style="font-size: 100px >Cardiology</a>
 
 
 ### ECMO / VAD / Mechanical Cardiopulmonary Support
