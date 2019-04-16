@@ -36,7 +36,8 @@ Additional topics to come:
 - Transport Medicine / EMS
 - Rehabilitation / Outcomes
 - Basic Science Methods
-- ICU Resource Management / Quality Improvement / Clinical Effectiveness / Early Warning / Big Data
+- ICU Resource Management / Clinical Effectiveness / Early Warning / Big Data
+- Quality Improvement
 - Simulation 
 - Education
 - Global Health / Austere Environments
