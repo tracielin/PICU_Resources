@@ -24,7 +24,7 @@ To view articles in your topic of interest, click on a category below.
 - <a href = "https://tracielin.github.io/PICU_Resources/GI"> Gastroentrology / Nutrition </a>
 - <a href = "https://tracielin.github.io/PICU_Resources/onc"> Oncology </a>
 - <a href = "https://tracielin.github.io/PICU_Resources/sx"> General Surgery / Trauma (Non-neuro) / Burns </a>
-- <a href = "https://tracielin.github.io/PICU_Resources/genetics_metab"> General Surgery / Trauma (Non-neuro) / Burns </a>
+- <a href = "https://tracielin.github.io/PICU_Resources/genetics_metab"> Genetics / Syndromes / Metabolic Disorders </a>
 - <a href = "https://tracielin.github.io/PICU_Resources/stats"> Statistics / Study Design</a>
 - <a href = "https://tracielin.github.io/PICU_Resources/epidemiology"> Epidemiology </a> 
  
