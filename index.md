@@ -33,14 +33,14 @@ To view articles in your topic of interest, click on a category below.
 Additional topics to come:
 - Procedures
 - Toxicology
-- TRANSPORT MEDICINE / EMS
-- REHABILITATION / OUTCOMES
-- BASIC SCIENCE METHODS
-- ICU RESOURCE MANAGEMENT / QUALITY IMPROVEMENT / CLINICAL EFFECTIVENESS / EARLY WARNING AND BIG DATA
-- SIMULATION
-- EDUCATION
-- GLOBAL HEALTH / AUSTERE ENVIRONMENTS
-- OTHER
+- Transport Medicine / EMS
+- Rehabilitation / Outcomes
+- Basic Science Methods
+- ICU Resource Management / Quality Improvement / Clinical Effectiveness / Early Warning / Big Data
+- Simulation 
+- Education
+- Global Health / Austere Environments
+- Other
 
 
 ---------------
