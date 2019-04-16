@@ -7,3 +7,5 @@ PARDS Supplement Pediatric Critical Care Medicine June 2015 Vol 18 (Supplement 1
 - Meduri et al. Effect of Prolonged Methylprednisolone Therapy in Unresolving Acute Respiratory Distress Syndrome: A Randomized Controlled Trial. JAMA. 1998;280(2):159-165. Erin presented at Sentinel Article Review 1/2018
 - ARDSNet 2000, Ventilation with lower tidal volumes as compared with traditional tidal volumes for acute lung injury and the acute respiratory distress syndrome. --Tracie Lin presented at Sentinel Article Review 1/2018
 - Curley 2000 Prone positioning
+
+<a href = "https://tracielin.github.io/PICU_Resources/index"> Main Page </a>
