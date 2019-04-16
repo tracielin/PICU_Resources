@@ -12,7 +12,7 @@ To view articles in your topic of interest, click on a category below.
 - <a href = "https://tracielin.github.io/PICU_Resources/neuro"> Neurology </a>
 - <a href = "https://tracielin.github.io/PICU_Resources/anesthesiology"> Anesthesiology / Analgesia / Sedation / Neuromuscular Blockade </a>
 - <a href = "https://tracielin.github.io/PICU_Resources/cardio"> Cardiology </a>
-- <a href = "https://tracielin.github.io/PICU_Resources/cardio" style="font-weight:bold" style="font-size: 100px> Cardiology </a>
+- <a style="font-weight:bold" style="font-size: 100px href = "https://tracielin.github.io/PICU_Resources/cardio"> Cardiology </a>
 - <a href = "https://tracielin.github.io/PICU_Resources/resp"> Respiratory </a>
 - <a href = "https://tracielin.github.io/PICU_Resources/resus"> Resuscitation </a>
 - <a href = "https://tracielin.github.io/PICU_Resources/ecmo"> ECMO / VAD / Mechanical Cardiopulmonary Support </a>
