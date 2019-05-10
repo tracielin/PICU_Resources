@@ -1,4 +1,9 @@
 ### Cardiac
+
+- <a href = "https://tracielin.github.io/PICU_Resources/Towbin%202019%20-%20Consensus%20Arrhythmogenic%20Cardiomyopathy.pdf">2019 HRS Expert Consensus Statement on Evaluation, Risk Stratification, and Management of Arrhythmogenic Cardiomyopathy.</a> 
+Towbin JA, McKenna WJ, Abrams DJ, Ackerman MJ, Calkins H, Darrieux FCC, Daubert JP, de Chillou C, DePasquale EC, Desai MY, Estes III NAM, Hua W, Indik JH, Ingles J, James CA, John RM, Judge DP, Keegan R, Krahn AD, Link MS, Marcus FI, McLeod CJ, Mestroni L, Priori SG, Saffitz JE, Sanatani S, Shimizu W, van Tintelen JP, Wilde AAM, Zareba W, 2019 HRS Expert Consensus Statement on Evaluation, Risk Stratification, and Management of Arrhythmogenic Cardiomyopathy, Heart Rhythm (2019), doi: https://doi.org/10.1016/j.hrthm.2019.05.007.
+
+
 PCCM: Useful References in Pediatric Cardiac Intensive Care: The 2017 Update. https://www.ncbi.nlm.nih.gov/pubmed/29533351
 Pediatric Cardiac Intensive Care: State of the Art. Pediatric Critical Care Medicine August 2016 Vol 17 (Supplement 1).
 Cholette 2011. Children with single-ventricle physiology do not benefit from higher hemoglobin levels post cavopulmonary connection: results of a prospective, randomized, controlled trial of a restrictive versus liberal red-cell transfusion strategy. PCCM. 12(1):39-45, JAN 2011
