@@ -30,6 +30,8 @@ To view articles in your topic of interest, click on a category below.
 - <a href = "https://tracielin.github.io/PICU_Resources/stats"> Statistics / Study Design</a>
 - <a href = "https://tracielin.github.io/PICU_Resources/epidemiology"> Epidemiology </a> 
 - <a href = "https://tracielin.github.io/PICU_Resources/communication"> Communication </a> 
+
+<br>
 Additional topics to come:
 - Procedures
 - Toxicology
