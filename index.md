@@ -13,6 +13,7 @@ To view articles in your topic of interest, click on a category below.
 ### Topic Categories
 
 - <a href = "https://tracielin.github.io/PICU_Resources/neuro"> Neurology </a>
+- <a href = "https://tracielin.github.io/PICU_Resources/neuromusc"> Neuromuscular Disorders </a>
 - <a href = "https://tracielin.github.io/PICU_Resources/anesthesiology"> Anesthesiology / Analgesia / Sedation / Neuromuscular Blockade </a>
 - <a href = "https://tracielin.github.io/PICU_Resources/cardio"> Cardiology </a>
 - <a href = "https://tracielin.github.io/PICU_Resources/resp"> Respiratory </a>
