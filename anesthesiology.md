@@ -2,8 +2,8 @@
 - Reevaluation of Systemic Early Neuromuscular Blockade (ROSE) Trial -- <a href = "ROSE_EarlyNMB_ARDS_NEJMoa1901686.pdf"> Early Neuromuscular Blockade in the Acute Respiratory Distress Syndrome.</a> May 2019. NEJM.
     - <a href="ROSE2019%20-%20Supplement.pdf">Supplemental Materials </a>
 
-https://www.openanesthesia.org/local_anesthetics_systemic_toxicity/
-https://www.nysora.com/toxicity-of-local-anesthetics
+- https://www.openanesthesia.org/local_anesthetics_systemic_toxicity/
+- https://www.nysora.com/toxicity-of-local-anesthetics
 
 
 
