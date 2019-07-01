@@ -18,7 +18,7 @@ To view articles in your topic of interest, click on a category below.
 - <a href = " https://www.thelancet.com/action/showPdf?pii=S1474-4422%2813%2970077-2">Adelson 2013</a> (The one good RCT cited in the guidelines) 
 
 -----------
-### Topic Categories
+### <strong>Topic Categories</strong>
 
 - <a href = "https://tracielin.github.io/PICU_Resources/neuro"> Neurology </a>
 - <a href = "https://tracielin.github.io/PICU_Resources/neuromusc"> Neuromuscular Disorders </a>
