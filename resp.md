@@ -3,6 +3,7 @@
 <b>ARDS/ALI</b>
 - Reevaluation of Systemic Early Neuromuscular Blockade (ROSE) Trial -- <a href = "ROSE_EarlyNMB_ARDS_NEJMoa1901686.pdf"> Early Neuromuscular Blockade in the Acute Respiratory Distress Syndrome.</a> May 2019. NEJM.
     - <a href="ROSE2019%20-%20Supplement.pdf">Supplemental Materials </a>
+    - Tracie Lin's <a href="ROSE_NEJM2019_TLin_190531.pdf"> summary presentation</a>
 - Pediatric Acute Respiratory Distress Syndrome: Consensus Recommendations From the Pediatric Acute Lung Injury Consensus Conference (http://pedsccm.vpicu.net/file_uploads/PALICC_pediatric_ARDS.pdf) PCCM 2015.
 PARDS Supplement Pediatric Critical Care Medicine June 2015 Vol 18 (Supplement 1).
 - Zubrow ME, Thomas NJ, Friedman DF, Yehya N. <a href="https://www.ncbi.nlm.nih.gov/pubmed/29194281">RBC Transfusions Are Associated With Prolonged Mechanical Ventilation in Pediatric Acute Respiratory Distress Syndrome.</a> Pediatr Crit Care Med. 2018 Feb;19(2):e88-e96. doi: 10.1097/PCC.0000000000001399. -- Jen Lee presented for Sentinel Article Review 5/2019
