@@ -57,4 +57,4 @@ Additional topics to come:
 
 ---------------
 Interested in perusing some of Tracie's other collections?
-<br>Suggestions? Email tlin42@jhmi.edu.
+<br>Suggestions? Email tracie.k.lin@gmail.com.
