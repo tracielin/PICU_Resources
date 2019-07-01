@@ -4,7 +4,7 @@ To view articles in your topic of interest, click on a category below.
 <br><br>This website is continually a work in progress; there's much to improve, and there will be perpetually more to update as research and scientific knowledge progresses!
 
 -----------
-### <b>Recent Article Highlights</b>
+### <strong>Recent Article Highlights</strong>
 
 #### ARDS
 - Reevaluation of Systemic Early Neuromuscular Blockade (ROSE) Trial -- <a href = "ROSE_EarlyNMB_ARDS_NEJMoa1901686.pdf"> Early Neuromuscular Blockade in the Acute Respiratory Distress Syndrome.</a> May 2019. NEJM.
