@@ -1,7 +1,7 @@
 # Welcome!
 To view articles in your topic of interest, click on a category below. 
 <br>Note: Some articles may appear in more than one category.
-<br><br>This website will be continually a work in progress; there's much to improve, and there will be perpetually more to update as research and scientific knowledge progresses!
+<br><br>This website is continually a work in progress; there's much to improve, and there will be perpetually more to update as research and scientific knowledge progresses!
 
 -----------
 ### Recent Article Highlights
@@ -9,6 +9,7 @@ To view articles in your topic of interest, click on a category below.
 #### ARDS
 - Reevaluation of Systemic Early Neuromuscular Blockade (ROSE) Trial -- <a href = "ROSE_EarlyNMB_ARDS_NEJMoa1901686.pdf"> Early Neuromuscular Blockade in the Acute Respiratory Distress Syndrome.</a> May 2019. NEJM.
     - <a href="ROSE2019%20-%20Supplement.pdf">Supplemental Materials </a>
+    - Tracie's <a href="ROSE_NEJM2019_TLin_190531.pdf">summary presentation</a>
     
 #### Traumatic Brain Injury (TBI)
 - Guidelines for the Management of Pediatric Severe TBI, Third Edition: Update of the Brain Trauma Foundation Guidelines,<a href = "https://www.ncbi.nlm.nih.gov/pubmed/30822776"> Executive Summary.</a> Kochanek 2019.
