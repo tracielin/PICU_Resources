@@ -2,4 +2,6 @@
 - Transparent reporting of a multivariable prediction model for individual prognosis or diagnosis (TRIPOD): Explanation and elaboration. Annals of Internal Medicine 2015. 
 - <a href = "RetireStatisticalSignificance_Nature2019.pdf">Retire Statistical Significance. </a>Nature. March 2019.
 
+- NEJM | <a href="https://www.nejm.org/doi/full/10.1056/NEJMe1906559">New Guidelines for Statistical Reporting in the Journal</a>
+
 <a href = "https://tracielin.github.io/PICU_Resources/index"> Main Page </a>
