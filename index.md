@@ -39,12 +39,12 @@ To view articles in your topic of interest, click on a category below.
 - <a href = "https://tracielin.github.io/PICU_Resources/stats"> Statistics / Study Design</a>
 - <a href = "https://tracielin.github.io/PICU_Resources/epidemiology"> Epidemiology </a> 
 - <a href = "https://tracielin.github.io/PICU_Resources/communication"> Communication </a> 
+- <a href = "https://tracielin.github.io/PICU_Resources/transportems"> Transport Medicine / EMS </a> 
 
 <br>
 Additional topics to come:
 - Procedures
 - Toxicology
-- Transport Medicine / EMS
 - Rehabilitation / Outcomes
 - Basic Science Methods
 - ICU Resource Management / Clinical Effectiveness / Early Warning / Big Data
