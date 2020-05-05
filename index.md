@@ -40,19 +40,19 @@ To view articles in your topic of interest, click on a category below.
 - <a href = "https://tracielin.github.io/PICU_Resources/epidemiology"> Epidemiology </a> 
 - <a href = "https://tracielin.github.io/PICU_Resources/communication"> Communication </a> 
 - <a href = "https://tracielin.github.io/PICU_Resources/transportems"> Transport Medicine / EMS </a> 
+- <a href = "https://tracielin.github.io/PICU_Resources/career"> Career Planning Resources </a>
 
 <br>
 Additional topics to come:
-- Procedures
-- Toxicology
-- Rehabilitation / Outcomes
-- Basic Science Methods
-- ICU Resource Management / Clinical Effectiveness / Early Warning / Big Data
-- Quality Improvement
-- Simulation 
-- Education
-- Global Health / Austere Environments
-- Other
+<br>- Procedures
+<br>- Toxicology
+<br>- Rehabilitation / Outcomes
+<br>- Basic Science Methods
+<br>- ICU Resource Management / Clinical Effectiveness / Early Warning / Big Data
+<br>- Quality Improvement
+<br>- Simulation 
+<br>- Education
+<br>- Global Health / Austere Environments
 
 
 ---------------
