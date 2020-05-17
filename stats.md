@@ -4,6 +4,7 @@
 
 - NEJM | <a href="https://www.nejm.org/doi/full/10.1056/NEJMe1906559">New Guidelines for Statistical Reporting in the Journal.</a> July 2019.
 
+- <a href="https://www.sciencedirect.com/science/article/pii/S155171442030046X?amp=1"> Development of a core outcome set for pediatric critical care outcomes research.</a> April 2020. 
 
 ### Examples of study design types
 
