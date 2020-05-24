@@ -21,7 +21,7 @@ div {
   
   <h3>Recent Article Highlights</h3>
   
-  Text here.
+  Test. Text here.
   
   </div>
 
