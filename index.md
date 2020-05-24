@@ -17,11 +17,11 @@ div {
 </head>
 <body>
 
-<div class="w3-container w3-border w3-round-xlarge">
+<div>
   
   <h3>Recent Article Highlights</h3>
   
-  Test. Rounded. Text here.
+  Test. . Text here.
   
   </div>
 
