@@ -6,7 +6,7 @@ To view articles in your topic of interest, click on a category below.
 -----------
 ### <strong>Recent Article Highlights</strong>
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
