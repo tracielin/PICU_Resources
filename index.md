@@ -4,9 +4,6 @@ To view articles in your topic of interest, click on a category below.
 <br><br>This website is continually a work in progress; there's much to improve, and there will be perpetually more to update as research and scientific knowledge progresses!
 
 -----------
-### <strong>Recent Article Highlights</strong>
-
-
 <html>
 <head>
 <style>
@@ -20,9 +17,13 @@ div {
 </head>
 <body>
 
-<h2>Recent Article Highlights</h2>
-
-<div>Text here.</div>
+<div>
+  
+  <h3>Recent Article Highlights</h3>
+  
+  Text here.
+  
+  </div>
 
 </body>
 </html>
