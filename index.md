@@ -6,8 +6,26 @@ To view articles in your topic of interest, click on a category below.
 -----------
 ### <strong>Recent Article Highlights</strong>
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
+</style>
+</head>
+<body>
 
- <p style=”padding: 10px; color: grey; background-color: white; border: black 2px solid”>Text</p>
+<h2>Recent Article Highlights</h2>
+
+<div>Text here.</div>
+
+</body>
+</html>
 
     
 
