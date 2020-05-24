@@ -7,7 +7,7 @@ To view articles in your topic of interest, click on a category below.
 ### <strong>Recent Article Highlights</strong>
 
 
-
+ <p style=”padding: 10px; color: grey; background-color: white; border: black 2px solid”>Text</p>
 
     
 
