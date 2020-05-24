@@ -17,7 +17,7 @@ div {
 </head>
 <body>
 
-<div>
+<div class="w3-container w3-border w3-round-xlarge">
   
   <h3>Recent Article Highlights</h3>
   
