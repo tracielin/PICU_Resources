@@ -14,6 +14,7 @@ div {
   border-style: solid;
   border-color: gray;
   margin: 0;
+  font-color: black;
 }
 </style>
 </head>
