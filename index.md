@@ -8,9 +8,9 @@ To view articles in your topic of interest, click on a category below.
 <head>
 <style>
 div {
-  width: 320px;
+  width: auto;
   padding: 10px;
-  border: 5px solid gray;
+  border: 3px solid gray;
   margin: 0;
 }
 </style>
