@@ -4,17 +4,8 @@ To view articles in your topic of interest, click on a category below.
 <br><br>This website is continually a work in progress; there's much to improve, and there will be perpetually more to update as research and scientific knowledge progresses!
 
 -----------
-<style>
-p {border: 2px solid blue;
-margin:15px;
-padding:15px;}
-</style>
-<body>
-<p> 
-   ### <strong>Recent Article Highlights</strong>
-    
-    </p>
-</body>
+### <strong>Recent Article Highlights</strong>
+
 
 
 
