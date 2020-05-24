@@ -10,7 +10,7 @@ To view articles in your topic of interest, click on a category below.
 div {
   width: auto;
   padding: 10px;
-  border: 3px solid gray;
+  border-color: 3px solid gray;
   margin: 0;
 }
 </style>
@@ -27,7 +27,8 @@ div {
 
 </body>
 </html>
-
+<br>
+<br>
     
 
 ### <strong>Topic Categories</strong>
