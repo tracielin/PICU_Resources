@@ -3,7 +3,7 @@ To view articles in your topic of interest, click on a category below.
 <br>Note: Some articles may appear in more than one category.
 <br><br>This website is continually a work in progress; there's much to improve, and there will be perpetually more to update as research and scientific knowledge progresses!
 
------------
+
 <html>
 <head>
 <style>
@@ -30,8 +30,6 @@ div {
 
     
 
-
------------
 ### <strong>Topic Categories</strong>
 
 - <a href = "https://tracielin.github.io/PICU_Resources/neuro"> Neurology </a>
