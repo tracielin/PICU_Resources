@@ -24,8 +24,8 @@ div {
   
   <h3>Recent Article Highlights</h3>
   
-<b><a href="https://pediatrics.aappublications.org/content/early/2020/05/19/peds.2020-1711?cct=2287">SARS-CoV-2-Induced Kawasaki-Like Hyperinflammatory Syndrome: A Novel COVID Phenotype in Children</a></b>
-<br><blockquote><i>Pediatrics.</i> May 2020, e20201711; DOI: https://doi.org/10.1542/peds.2020-1711
+<strong><blockquote><a href="https://pediatrics.aappublications.org/content/early/2020/05/19/peds.2020-1711?cct=2287">SARS-CoV-2-Induced Kawasaki-Like Hyperinflammatory Syndrome: A Novel COVID Phenotype in Children</a></strong>
+<br><i>Pediatrics.</i> May 2020, e20201711; DOI: https://doi.org/10.1542/peds.2020-1711
   </blockquote>
   </div>
 
