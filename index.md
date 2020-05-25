@@ -25,6 +25,10 @@ div {
 <blockquote><a href="https://pediatrics.aappublications.org/content/early/2020/05/19/peds.2020-1711?cct=2287">SARS-CoV-2-Induced Kawasaki-Like Hyperinflammatory Syndrome: A Novel COVID Phenotype in Children</a>
 <br><i>Pediatrics.</i> May 2020, e20201711; DOI: https://doi.org/10.1542/peds.2020-1711
   </blockquote>
+  <br>
+  <blockquote><a href = "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31094-1/fulltext">Hyperinflammatory shock in children during COVID-19 pandemic </a>
+  <br><i> Lancet Correspondence</i> | VOLUME 395, ISSUE 10237, P1607-1608, MAY 23, 2020. DOI:https://doi.org/10.1016/S0140-6736(20)31094-1
+  </blockquote>
   </div>
 
 </body>
