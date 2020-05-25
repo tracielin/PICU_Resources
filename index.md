@@ -1,7 +1,7 @@
 # Welcome!
 To view articles in your topic of interest, click on a category below. 
 
-<br><br>This website is continually a work in progress; there's much to improve, and there will be perpetually more to update as research and scientific knowledge progresses!
+This website is continually a work in progress; there's much to improve, and there will be perpetually more to update as research and scientific knowledge progresses!
 
 
 <html>
