@@ -1,5 +1,7 @@
 ### Cardiac
 
+-Characteristics and Outcomes of Pediatric Patients Supported With Ventricular Assist Device—A Multi-Institutional Analysis.
+Puri, Kriti; Anders, Marc M.; Tume, Sebastian C.; Cabrera, Antonio G.; Heinle, Jeffrey S.; Causey, Jamie C.; Wang, Yunfei; Moffett, Brady S.; Shekerdemian, Lara S. Pediatric Critical Care Medicine: August 2019 - Volume 20 - Issue 8 - p 744-752
 - [Adults]<a href = "https://tracielin.github.io/PICU_Resources/Towbin%202019%20-%20Consensus%20Arrhythmogenic%20Cardiomyopathy.pdf">2019 HRS Expert Consensus Statement on Evaluation, Risk Stratification, and Management of Arrhythmogenic Cardiomyopathy.</a> 
 Towbin JA, McKenna WJ, Abrams DJ, Ackerman MJ, Calkins H, Darrieux FCC, Daubert JP, de Chillou C, DePasquale EC, Desai MY, Estes III NAM, Hua W, Indik JH, Ingles J, James CA, John RM, Judge DP, Keegan R, Krahn AD, Link MS, Marcus FI, McLeod CJ, Mestroni L, Priori SG, Saffitz JE, Sanatani S, Shimizu W, van Tintelen JP, Wilde AAM, Zareba W, 2019 HRS Expert Consensus Statement on Evaluation, Risk Stratification, and Management of Arrhythmogenic Cardiomyopathy, Heart Rhythm (2019), doi: https://doi.org/10.1016/j.hrthm.2019.05.007.
 
