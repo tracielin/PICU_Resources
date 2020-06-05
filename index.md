@@ -37,7 +37,7 @@ div {
 <br>
     
 
-### <strong>Topic Categories</strong>
+### <strong>Article Collections</strong>
 
 - <a href = "https://tracielin.github.io/PICU_Resources/neuro"> Neurology </a>
 - <a href = "https://tracielin.github.io/PICU_Resources/neuromusc"> Neuromuscular Disorders </a>
@@ -74,6 +74,9 @@ Additional topics to come:
 <br>- Education
 <br>- Global Health / Austere Environments
 
+### <strong>Educational Modules</strong>
+- <a href = "https://www.popcornetwork.org/">POPCoRN</a>
+<tab><i>POPCoRN is a multi-institutional collaborative that was originally imagined during the COVID-19 pandemic as a vehicle for optimizing adult care in pediatric environments. We are committed to supporting health care providers and institutions across the globe as they strive to enhance adult care within pediatric facilities and/or by pediatric providers. </i>
 
 ---------------
 <br>Suggestions? Email tracie.k.lin@gmail.com. Thanks!
