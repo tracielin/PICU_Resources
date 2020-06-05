@@ -7,3 +7,6 @@
 #### Op-Ed
 
 - <a href = "https://www.brookings.edu/research/risks-and-remedies-for-artificial-intelligence-in-health-care/">Risks and remedies for artificial intelligence in health care.</a> W. Nicholson Price II. Thursday, November 14, 2019. Brookings.
+
+
+<a href = "https://tracielin.github.io/PICU_Resources/index"> Main Page </a>
