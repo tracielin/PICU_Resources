@@ -64,15 +64,14 @@ div {
 
 <br>
 Additional topics to come:
-<br>- Procedures
-<br>- Toxicology
-<br>- Rehabilitation / Outcomes
-<br>- Basic Science Methods
-
-<br>- Quality Improvement
-<br>- Simulation 
-<br>- Education
-<br>- Global Health / Austere Environments
+- Procedures
+- Toxicology
+- Rehabilitation / Outcomes
+- Basic Science Methods
+- Quality Improvement
+- Simulation 
+- Education
+- Global Health / Austere Environments
 
 ### <strong>Educational Modules</strong>
 - <a href = "https://www.popcornetwork.org/">POPCoRN</a>
