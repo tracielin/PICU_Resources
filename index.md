@@ -60,6 +60,7 @@ div {
 - <a href = "https://tracielin.github.io/PICU_Resources/communication"> Communication </a> 
 - <a href = "https://tracielin.github.io/PICU_Resources/transportems"> Transport Medicine / EMS </a> 
 - <a href = "https://tracielin.github.io/PICU_Resources/career"> Career Planning Resources </a>
+- <a href = "https://tracielin.github.io/PICU_Resources/data"> ICU Resource Management / Clinical Effectiveness / Early Warning / Big Data </a>
 
 <br>
 Additional topics to come:
@@ -67,7 +68,7 @@ Additional topics to come:
 <br>- Toxicology
 <br>- Rehabilitation / Outcomes
 <br>- Basic Science Methods
-<br>- ICU Resource Management / Clinical Effectiveness / Early Warning / Big Data
+
 <br>- Quality Improvement
 <br>- Simulation 
 <br>- Education
