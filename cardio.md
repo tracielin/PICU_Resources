@@ -1,6 +1,6 @@
 ### Cardiac
 
--Characteristics and Outcomes of Pediatric Patients Supported With Ventricular Assist Device—A Multi-Institutional Analysis.
+- Characteristics and Outcomes of Pediatric Patients Supported With Ventricular Assist Device—A Multi-Institutional Analysis.
 Puri, Kriti; Anders, Marc M.; Tume, Sebastian C.; Cabrera, Antonio G.; Heinle, Jeffrey S.; Causey, Jamie C.; Wang, Yunfei; Moffett, Brady S.; Shekerdemian, Lara S. Pediatric Critical Care Medicine: August 2019 - Volume 20 - Issue 8 - p 744-752
 - [Adults]<a href = "https://tracielin.github.io/PICU_Resources/Towbin%202019%20-%20Consensus%20Arrhythmogenic%20Cardiomyopathy.pdf">2019 HRS Expert Consensus Statement on Evaluation, Risk Stratification, and Management of Arrhythmogenic Cardiomyopathy.</a> 
 Towbin JA, McKenna WJ, Abrams DJ, Ackerman MJ, Calkins H, Darrieux FCC, Daubert JP, de Chillou C, DePasquale EC, Desai MY, Estes III NAM, Hua W, Indik JH, Ingles J, James CA, John RM, Judge DP, Keegan R, Krahn AD, Link MS, Marcus FI, McLeod CJ, Mestroni L, Priori SG, Saffitz JE, Sanatani S, Shimizu W, van Tintelen JP, Wilde AAM, Zareba W, 2019 HRS Expert Consensus Statement on Evaluation, Risk Stratification, and Management of Arrhythmogenic Cardiomyopathy, Heart Rhythm (2019), doi: https://doi.org/10.1016/j.hrthm.2019.05.007.
@@ -112,5 +112,10 @@ Ebstein anomaly. J Thorac Cardiovasc Surg 2008; 135:1120–1136,
 98. Wernovsky G, Kuijpers M, Van Rossem MC, et al: Postoperative course in the cardiac intensive care unit following the first stage of Norwood reconstruction. Cardiol Young 2007; 17:652–665
 99. Wessel DL, Adatia I, Giglia TM, et al: Use of inhaled nitric oxide and acetylcholine in the evaluation of pulmonary hypertension and endothelial function after cardiopulmonary bypass. Circulation 1993; 88(5 Pt 1):2128–2138
 100. Zahn EM, Dobrolet NC, Nykanen DG, et al: Interventional catheterization performed in the early postoperative period after congenital heart surgery in children. J Am Coll Cardiol 2004; 43:1264–1269
+
+
+#### Non-ICU Cardiology
+
+- 
 
 <a href = "https://tracielin.github.io/PICU_Resources/index"> Main Page </a>
