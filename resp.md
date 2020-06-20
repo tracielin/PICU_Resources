@@ -15,6 +15,6 @@ PARDS Supplement Pediatric Critical Care Medicine June 2015 Vol 18 (Supplement 1
 - Curley 2000 Prone positioning
 
 <b>Extubation / Intubation</b>
--<a href="https://journals.lww.com/ccmjournal/Abstract/9000/High_Breath_by_Breath_Variability_Is_Associated.95621.aspx">High Breath-by-Breath Variability Is Associated With Extubation Failure in Children.</a> Critical Care Medicine: June 16, 2020 - Volume Online First - doi: 10.1097/CCM.0000000000004418
+- <a href="https://journals.lww.com/ccmjournal/Abstract/9000/High_Breath_by_Breath_Variability_Is_Associated.95621.aspx">High Breath-by-Breath Variability Is Associated With Extubation Failure in Children.</a> Critical Care Medicine: June 16, 2020 - Volume Online First - doi: 10.1097/CCM.0000000000004418
 
 <a href = "https://tracielin.github.io/PICU_Resources/index"> Main Page </a>
