@@ -3,6 +3,7 @@
 Sprung et al. Hydrocortisone Therapy for Patients with Septic Shock. NEJM 2008 Vol 358:111-124.
 - Annane et al. Effect of treatment with low doses of hydrocortisone and fludrocortisone on mortality in patients with septic shock.JAMA. 2002 Aug 21;288(7):862-71.
 - <a href = "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4523170/"> Vasopressors for the Treatment of Septic Shock: Systematic Review and Meta-Analysis. </a>PLoS One. 2015; 10(8): e0129305. 
+- Cruz AT, et al. <a href="https://pediatrics.aappublications.org/content/127/3/e758">Implementation of goal-directed therapy for children with suspected sepsis in the emergency department.</a> Pediatrics 2011;127;e758
 
 #### COVID-19 | PIMS-TS | MIS-C
 
