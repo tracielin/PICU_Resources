@@ -10,11 +10,11 @@
 - 2015 International Consensus on Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science With Treatment Recommendations
     - Part 1: <a href="https://www.ahajournals.org/doi/10.1161/CIR.0000000000000270">Executive Summary</a>
     - Part 2: <a href="https://www.ahajournals.org/doi/10.1161/CIR.0000000000000271">Evidence Evaluation and Management of Conflicts of Interest</a>
-    - Part 3:<a href="https://www.ahajournals.org/doi/10.1161/CIR.0000000000000272">Adult BLS and AED</a>
-    - Part 4:<a href="https://www.ahajournals.org/doi/10.1161/CIR.0000000000000273">Advanced Life Support</a>
-    - Part 5:<a href="https://www.ahajournals.org/doi/10.1161/CIR.0000000000000274">Acute Coronary Syndromes</a>
+    - Part 3: <a href="https://www.ahajournals.org/doi/10.1161/CIR.0000000000000272">Adult BLS and AED</a>
+    - Part 4: <a href="https://www.ahajournals.org/doi/10.1161/CIR.0000000000000273">Advanced Life Support</a>
+    - Part 5: <a href="https://www.ahajournals.org/doi/10.1161/CIR.0000000000000274">Acute Coronary Syndromes</a>
     - Part 6: <a href="https://www.ahajournals.org/doi/10.1161/CIR.0000000000000275">Pediatric BLS and PALS</a>
-    - Part 7:<a href="https://www.ahajournals.org/doi/10.1161/CIR.0000000000000276">Neonatal Resuscitation</a>
+    - Part 7: <a href="https://www.ahajournals.org/doi/10.1161/CIR.0000000000000276">Neonatal Resuscitation</a>
     - Part 8: <a href="https://www.ahajournals.org/doi/10.1161/CIR.0000000000000277">Education, Implementation, Teams</a>
     - Part 9: <a href="https://www.ahajournals.org/doi/10.1161/CIR.0000000000000278">First Aid</a>
 
