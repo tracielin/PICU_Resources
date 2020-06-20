@@ -7,6 +7,8 @@
 
 - Association Between Diastolic Blood Pressure During Pediatric In-Hospital Cardiopulmonary Resuscitation and Survival. Berg et al.; Diastolic BP during Pediatric In-hospital CPR. Circulation. published online December 26, 2017.
 
+<b>Sepsis Resuscitation</b>
 
+- Cruz AT, et al. <a href="https://pediatrics.aappublications.org/content/127/3/e758">Implementation of goal-directed therapy for children with suspected sepsis in the emergency department.</a> Pediatrics 2011;127;e758
 
 <a href = "https://tracielin.github.io/PICU_Resources/index"> Main Page </a>
