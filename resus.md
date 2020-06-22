@@ -18,6 +18,8 @@
     - Part 8: <a href="https://www.ahajournals.org/doi/10.1161/CIR.0000000000000277">Education, Implementation, Teams</a>
     - Part 9: <a href="https://www.ahajournals.org/doi/10.1161/CIR.0000000000000278">First Aid</a>
 
+- Weinstock P, Halamek LP. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031395508001144">Teamwork During Resuscitation.</a> Pediatric Clinics of North America. Volume 55, Issue 4, August 2008, Pages 1011-1024. https://doi.org/10.1016/j.pcl.2008.04.001
+
 <b>Sepsis Resuscitation</b>
 
 - Cruz AT, et al. <a href="https://pediatrics.aappublications.org/content/127/3/e758">Implementation of goal-directed therapy for children with suspected sepsis in the emergency department.</a> Pediatrics 2011;127;e758
