@@ -4,6 +4,7 @@
 
 - https://www.openanesthesia.org/local_anesthetics_systemic_toxicity/
 - https://www.nysora.com/toxicity-of-local-anesthetics
+- <a href = "https://journals.lww.com/anesthesia-analgesia/fulltext/2018/04000/smarttots_update_regarding_anesthetic.45.aspx">SmartTots Update Regarding Anesthetic Neurotoxicity in the Developing Brain.</a> Anesthesia & Analgesia: April 2018 - Volume 126 - Issue 4 - p 1393-1396.
 
 
 
