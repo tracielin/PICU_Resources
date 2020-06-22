@@ -16,5 +16,6 @@ PARDS Supplement Pediatric Critical Care Medicine June 2015 Vol 18 (Supplement 1
 
 <b>Extubation / Intubation</b>
 - <a href="https://journals.lww.com/ccmjournal/Abstract/9000/High_Breath_by_Breath_Variability_Is_Associated.95621.aspx">High Breath-by-Breath Variability Is Associated With Extubation Failure in Children.</a> Critical Care Medicine: June 16, 2020 - Volume Online First - doi: 10.1097/CCM.0000000000004418
+- Faustino EVS, et al. for the Randomized Evaluation of Sedation Titration for Respiratory Failure (RESTORE) Study Investigators. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541896/"> Accuracy of an extubation readiness test in predicting successful extubation in children with acute respiratory failure from lower respiratory tract disease.</a> Crit Care Med. 2017 Jan; 45(1): 94–102. doi: 10.1097/CCM.0000000000002024
 
 <a href = "https://tracielin.github.io/PICU_Resources/index"> Main Page </a>
