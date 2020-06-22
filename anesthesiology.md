@@ -8,7 +8,7 @@
 
 
 ### Airway
-- Practice Guidelines for Management of the Difficult Airway. Anesthesiology February 2013: 1-20.
+- <a href="https://anesthesiology.pubs.asahq.org/article.aspx?articleid=1918684">Practice Guidelines for Management of the Difficult Airway.</a> Anesthesiology February 2013: 1-20.
 - Anene 1996, Dexamethasone for the prevention of postextubation airway obstruction: a prospective, randomized, double-blind, placebo-controlled trial. -- Sid presented at Sentinel Article Review 1/2018
 - Khemani RG, et al. Cochrane Database Syst Rev. 2009. Corticosteroids for the prevention and treatment of post-extubation stridor in neonates, children and adults.
 - Abdelgadir IS, Phillips RS, Singh D, Moncreiff MP, Lumsden JL. Videolaryngoscopy versus direct laryngoscopy for tracheal intubation in children (excluding neonates). Cochrane Database Syst Rev. 2017;5:CD011413. doi: 10.1002/14651858.CD011413.pub2
