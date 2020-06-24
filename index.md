@@ -62,7 +62,7 @@ div {
 - <a href = "https://tracielin.github.io/PICU_Resources/data"> ICU Resource Management / Clinical Effectiveness / Early Warning / Big Data </a>
 - <a href = "https://tracielin.github.io/PICU_Resources/procedures"> Procedures </a>
 - <a href = "https://tracielin.github.io/PICU_Resources/career"> Career Planning Resources </a>
-- <a href="/academic"> Academic Medicine
+- <a href="/PICU_Resources/academic"> Academic Medicine
 
 <br>
 Additional topics to come:
