@@ -21,7 +21,7 @@ div {
 <div>
   
   <h3>Recent Article Highlights</h3>
-  
+<blockquote><a href="https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30177-2/fulltext">COVID-19 in 7780 pediatric patients: A systematic review.</a> Lancet, May 2020. DOI: https://doi.org/10.1016/j.eclinm.2020.100433 <br>  
 <blockquote><a href="https://pediatrics.aappublications.org/content/early/2020/05/19/peds.2020-1711?cct=2287">SARS-CoV-2-Induced Kawasaki-Like Hyperinflammatory Syndrome: A Novel COVID Phenotype in Children</a>
 <br><i>Pediatrics.</i> May 2020, e20201711; DOI: https://doi.org/10.1542/peds.2020-1711
   </blockquote>
